@@ -25,7 +25,7 @@ Requirements:
 - Node.js and Npm runtime environment
 
 Usage:
-1. Clone the project repository from [repository URL].
+1. Clone the project repository from (https://github.com/code-tab/smartvision.git).
 2. Install the required dependencies listed in the package.json file.
 3. Set up the Clarifai-nodejs-grpc API credentials in the configuration file.
 4. Configure the database(PSQL) connection details in the backend configuration file.
